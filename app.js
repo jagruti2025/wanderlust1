@@ -37,14 +37,14 @@ app.get("/listings/:id", async(req,res)=>{
     res.render("Listings/show.ejs",{listing});
 });
 
-// // app.get("/testListing", async (req,res)=>{
-// //     let sampleListing = new Listing({
-// //         title : "My New Villa",
-// //         description : "By the beach",
-// //         price : 1200,
-// //         location : "Calangute, Goa",
-// //         country : "India",
-// //     });
+// app.get("/testListing", async (req,res)=>{
+//     let sampleListing = new Listing({
+//        title : "My New Villa",
+//        description : "By the beach",
+//        price : 1200,
+//        location : "Calangute, Goa",
+//        country : "India",
+//     });
 
 //     await sampleListing.save();
 //     console.log("sample was saved");
