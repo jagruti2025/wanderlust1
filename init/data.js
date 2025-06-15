@@ -1,8 +1,7 @@
 const sampleListings = [
   {
     title: "Cozy Beachfront Cottage",
-    description:
-      "Escape to this charming beachfront cottage for a relaxing getaway. Enjoy stunning ocean views and easy access to the beach.",
+    description: "Escape to this charming beachfront cottage for a relaxing getaway. Enjoy stunning ocean views and easy access to the beach.",
     image: {
       filename: "listingimage",
       url: "https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
@@ -133,8 +132,7 @@ const sampleListings = [
   },
   {
     title: "Private Island Retreat",
-    description:
-      "Have an entire island to yourself for a truly exclusive and unforgettable vacation experience.",
+    description: "Have an entire island to yourself for a truly exclusive and unforgettable vacation experience.",
     image: {
       filename: "listingimage",
       url: "https://images.unsplash.com/photo-1618140052121-39fc6db33972?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bG9kZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
